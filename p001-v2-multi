@@ -51,6 +51,7 @@ custom_proxy_group=📃 代理名单`select`[]🚀 节点选择`[]🎯 全球直
 custom_proxy_group=🐟 漏网之鱼`select`[]🚀 节点选择`[]🎯 全球直连`[]♻️ 自动选择`[]🇭🇰 香港节点`[]🇸🇬 新加坡节点`[]🇯🇵 日本节点`[]🇨🇳 台湾节点`[]🇺🇲 美国节点`!!GROUPID=0!!.*
 custom_proxy_group=🇭🇰 香港节点`url-test`!!GROUPID=0!!(港|HK|Hong Kong)`https://cp.cloudflare.com/generate_204`600,,100
 custom_proxy_group=🇭🇰 香港节点2`url-test`!!GROUPID=1!!(港|HK|Hong Kong)`https://cp.cloudflare.com/generate_204`600,,100
+custom_proxy_group=🇸🇬 新加坡节点2`url-test`!!GROUPID=1!!(新加坡|SG|Singapore)`http://www.gstatic.com/generate_204`600,,100
 custom_proxy_group=🇯🇵 日本节点`url-test`!!GROUPID=0!!(日本|川日|东京|大阪|泉日|埼玉|沪日|深日|[^-]日|JP|Japan)`https://cp.cloudflare.com/generate_204`600,,100
 custom_proxy_group=🇨🇳 台湾节点`url-test`!!GROUPID=0!!(台湾|TW|Taiwan)`https://cp.cloudflare.com/generate_204`600,,100
 custom_proxy_group=🇸🇬 新加坡节点`url-test`!!GROUPID=0!!(新加坡|SG|Singapore)`http://www.gstatic.com/generate_204`600,,100
